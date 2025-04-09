@@ -1,0 +1,14 @@
+* {
+  /* margin-top: 1rem; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.headdiv {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
